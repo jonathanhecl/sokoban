@@ -1,2 +1,4 @@
 # sokoban
-Sokoban Example in Godot 4
+Sokoban example in Godot 4
+
+![img](Sokoban.png)
